@@ -1,0 +1,8 @@
+class Routes {
+  Routes._();
+
+  static const splash = '/splash';
+  static const home = '/home';
+  static const navigator = '/navigator';
+  static const details = '/details';
+}
